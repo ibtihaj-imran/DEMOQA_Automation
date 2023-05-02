@@ -1,0 +1,9 @@
+venv
+assets
+image
+Screenshots
+main.py
+Reportsreport.html
+.DS_Store
+.idea/
+__pycache__/
